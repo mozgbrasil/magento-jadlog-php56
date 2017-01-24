@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Mozg. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+ -->
+<config>
+	<modules>
+		<Mozg_Jadlog>
+			<active>true</active>
+			<codePool>local</codePool>
+			<depends>
+				<Mage_Core />
+				<Mage_Customer />
+				<Mage_Adminhtml />
+			</depends>
+		</Mozg_Jadlog>
+	</modules>
+</config>

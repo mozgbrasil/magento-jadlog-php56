@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Mozg. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+-->
+<layout version="0.1.0">
+
+
+    <mozg_productpageshipping_process_estimate>
+        <block type="mozg_productpageshipping/estimate_result" name="shipping.estimate.result" template="mozg_productpageshipping/estimate/result.phtml" output="toHtml" />
+    </mozg_productpageshipping_process_estimate>
+</layout>
