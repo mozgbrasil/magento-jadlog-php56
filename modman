@@ -1,0 +1,12 @@
+## Modman Module Mozg
+app/code/local/Mozg/Jadlog/	app/code/local/Mozg/Jadlog/
+app/design/adminhtml/default/default/layout/mozg_jadlog.xml	app/design/adminhtml/default/default/layout/mozg_jadlog.xml
+app/design/adminhtml/default/default/template/mozg_jadlog/	app/design/adminhtml/default/default/template/mozg_jadlog/
+app/design/frontend/base/default/layout/mozg_jadlog.xml	app/design/frontend/base/default/layout/mozg_jadlog.xml
+app/design/frontend/base/default/template/mozg_jadlog/	app/design/frontend/base/default/template/mozg_jadlog/
+app/etc/modules/Mozg_Jadlog.xml	app/etc/modules/Mozg_Jadlog.xml
+app/locale/pt_BR/Mozg_Jadlog.csv	app/locale/pt_BR/Mozg_Jadlog.csv
+js/mozg_jadlog/	js/mozg_jadlog/
+skin/adminhtml/default/default/images/mozg_jadlog/	skin/adminhtml/default/default/images/mozg_jadlog/
+skin/frontend/base/default/css/mozg_jadlog/	skin/frontend/base/default/css/mozg_jadlog/
+skin/frontend/base/default/images/mozg_jadlog/	skin/frontend/base/default/images/mozg_jadlog/
